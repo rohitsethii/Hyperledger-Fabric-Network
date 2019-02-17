@@ -1,0 +1,25 @@
+=============== Jan 21, 2019 (IST) ===============
+15:34:31.219444 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+15:34:31.224070 db@open opening
+15:34:31.224558 version@stat F·[] S·0B[] Sc·[]
+15:34:31.234105 db@janitor F·2 G·0
+15:34:31.234270 db@open done T·10.154458ms
+=============== Jan 22, 2019 (IST) ===============
+13:09:26.825451 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+13:09:26.825548 version@stat F·[] S·0B[] Sc·[]
+13:09:26.825557 db@open opening
+13:09:26.826475 journal@recovery F·1
+13:09:26.826731 journal@recovery recovering @1
+13:09:26.827709 version@stat F·[] S·0B[] Sc·[]
+13:09:26.833417 db@janitor F·2 G·0
+13:09:26.833509 db@open done T·7.930171ms
+=============== Jan 22, 2019 (IST) ===============
+13:44:54.076615 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+13:44:54.076722 version@stat F·[] S·0B[] Sc·[]
+13:44:54.076730 db@open opening
+13:44:54.076759 journal@recovery F·1
+13:44:54.078362 journal@recovery recovering @2
+13:44:54.083524 memdb@flush created L0@4 N·3 S·166B "lmy..nel,v2":"und..Key,v1"
+13:44:54.084331 version@stat F·[1] S·166B[166B] Sc·[0.25]
+13:44:54.094013 db@janitor F·3 G·0
+13:44:54.094045 db@open done T·17.305126ms
