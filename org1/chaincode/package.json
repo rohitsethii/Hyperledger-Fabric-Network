@@ -1,0 +1,14 @@
+{
+  "name": "chaincode",
+  "version": "1.0.0",
+  "description": "lottery chaincode",
+  "main": "lottery.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fabric-shim": "^1.4.1"
+  }
+}
