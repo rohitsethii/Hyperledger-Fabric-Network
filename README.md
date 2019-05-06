@@ -15,7 +15,7 @@ Things you need to install
 curl -sSL http://bit.ly/2ysbOFE | bash -s 1.4.0
 ```
 
-The command above downloads and executes a bash script that will download and extract all of the platform-specific binaries 
+Above command executes a bash script that will download and extract all of the platform-specific binaries 
 
 * configtxgen,
 * configtxlator,
