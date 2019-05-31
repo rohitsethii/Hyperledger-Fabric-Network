@@ -17,13 +17,13 @@ curl -sSL http://bit.ly/2ysbOFE | bash -s 1.4.0
 
 Above command executes a bash script that will download and extract all of the platform-specific binaries 
 
-* configtxgen,
-* configtxlator,
-* cryptogen,
-* discover,
+* configtxgen
+* configtxlator
+* cryptogen
+* discover
 * idemixgen
-* orderer,
-* peer, and
+* orderer
+* peer
 * fabric-ca-client
 
 # 2. Binaries --> Configurations
@@ -33,4 +33,4 @@ Above command executes a bash script that will download and extract all of the p
 * Orderer --> orderer.yaml
 * peer --> core.yaml
 
-Binary files associated with their respective configutions.
+Binary files associated with their respective configurations.
